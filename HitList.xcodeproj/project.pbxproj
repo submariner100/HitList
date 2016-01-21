@@ -79,6 +79,9 @@
 		37014A231C514D1E00873296 = {
 			isa = PBXGroup;
 			children = (
+				37014A621C5152BE00873296 /* Model */,
+				37014A611C5152B200873296 /* View */,
+				37014A601C51529D00873296 /* Controller */,
 				37014A2E1C514D1E00873296 /* HitList */,
 				37014A461C514D1E00873296 /* HitListTests */,
 				37014A511C514D1E00873296 /* HitListUITests */,
@@ -126,6 +129,27 @@
 				37014A541C514D1E00873296 /* Info.plist */,
 			);
 			path = HitListUITests;
+			sourceTree = "<group>";
+		};
+		37014A601C51529D00873296 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		37014A611C5152B200873296 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		37014A621C5152BE00873296 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
